@@ -34,3 +34,11 @@ The aim is to understand:
 
 Project setup and structure initialized.
 
+
+
+\## Day 2 Progress
+
+Completed dataset understanding and initial inspection.
+
+Reviewed dataset structure, checked data types, and identified missing values.
+
